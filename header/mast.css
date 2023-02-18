@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align : right; 
+}
+
+header{
+    background-color: red;
+    padding: 15px;
+    box-shadow: 0 0 3px rgb(16, 16, 16);
+
+}
+
+header li{
+    display: inline;
+    padding-left: 45px;
+
+}
+
+header li a {
+    color: rgb(70, 18, 18);
+    text-decoration: none;
+    padding: 13px;
+}
+.logo {
+    height: 45px;
+    width: 45px;
+    float: left;
+    
+    
+    
+}
+
+.search{
+    height: 25px;
+    width: 25px; 
+    padding-bottom: auto;
+    
+}
+
+.cart {
+    height: 25px;
+    width: 25px;
+    float: right;
+    margin-top:10px ;
+   
+}
+.nav a {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-left: 16px;
+  font-size: 17px;
+  text-decoration: none;
+  text-align: center;
+  
+  padding: 5px 9px;
+}
+
+.nav {overflow: hidden;
+background-color: red;
+}
+
